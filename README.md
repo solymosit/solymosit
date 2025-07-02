@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamás</h1>
 <h3 align="center">A passionate backend developer from Hungary</h3>
 
-- 🔭 I’m currently working on [devRoot](https://github.com/devRoot-workshop/devRoot-backend)
-
-- 🌱 I’m currently learning **Avalonia UI, .NET MAUI**
+- 🔭 I’m currently working on [mozdonyNavigator](https://mozdonynavigator.vercel.app)
 
 
 
