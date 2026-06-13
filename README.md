@@ -40,4 +40,4 @@
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
-![Egyiptomicreations's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Egyiptomicreations&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Egyiptomicreations's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solymosit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
